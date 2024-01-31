@@ -1,0 +1,3 @@
+# Tongari SoftwareのGithubページへようこそ！！！
+
+ただこれだけがここにあります
